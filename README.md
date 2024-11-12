@@ -1,1 +1,1 @@
-# viz_basics
+This repository contains the lecture material for Visualization Basics
